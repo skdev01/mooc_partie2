@@ -1,0 +1,2 @@
+Qu'est qu'un commit :
+exemple de commande  : git commit -am "mon explication sur les modifications"
